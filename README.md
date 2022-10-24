@@ -4,3 +4,6 @@ Trabalho de Análise de dados
 ![Business Model Canvas](https://user-images.githubusercontent.com/115369071/196823552-c24584f9-e983-4273-aa57-e56e7dafd9bb.png)
 Link da base de dados:
 https://raw.githubusercontent.com/ArrowheadAnalytics/next-gen-scrapy-2.0/master/pass_and_game_data.csv
+
+
+Link do vídeo : https://youtu.be/tdRuIYlk-F4
