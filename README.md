@@ -7,3 +7,10 @@ https://raw.githubusercontent.com/ArrowheadAnalytics/next-gen-scrapy-2.0/master/
 
 
 Link do vídeo : https://youtu.be/tdRuIYlk-F4
+
+Análise dos dados
+
+[RELATORIO DE ANALISE ESTATISTICA E VISUALIZAÇÃO DOS DADOS DE DESEMPENHO DA NFL 2020.pdf](https://github.com/itsjessicaleite/An-lise-NFL/files/10079303/RELATORIO.DE.ANALISE.ESTATISTICA.E.VISUALIZACAO.DOS.DADOS.DE.DESEMPENHO.DA.NFL.2020.pdf)
+
+Link da análise
+https://colab.research.google.com/drive/1qOfw9VBaVWJRYO5rEPF7LItlN9bCOmzO#scrollTo=IWoAnF7To_l4
